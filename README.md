@@ -66,7 +66,9 @@
 
 8. Заново запускаю анализатор, вижу, что ошибок и предупреждений нет.
 
-9. ![img_9.png](IMG/img_9.png)
+9. Скриншот успешного прохождения анализа:
+
+![img_9.png](IMG/img_9.png)
 
 ## Знакомство с Nexus
 
@@ -96,7 +98,7 @@
 
 ![img_11.png](IMG/img_11.png)
 
-4. [Ссылка на maven-metadata.xml](https://github.com/DemoniumBlack/fedorchukds-devops-33-23/SRC/maven-metadata.xml)
+4. [Ссылка на maven-metadata.xml](https://github.com/DemoniumBlack/fedorchukds-devops-33-23/blob/main/SRC/maven-metadata.xml)
 
 
 
